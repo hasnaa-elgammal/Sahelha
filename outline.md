@@ -18,6 +18,15 @@ Home:
 
 
 Track:
+    -image
     - title
     - description
     - learning path
+
+Web Development
+     -title
+     -content    
+
+Mobile development
+    -title
+    -content     
